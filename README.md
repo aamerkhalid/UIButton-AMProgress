@@ -1,4 +1,4 @@
-AMButton
+UIButton-AMProgress
 ========
 Simple Objective UIButton Category for handling  progress bar and UIButton.<br/>  				
 	Just adding single Method 		<br/>																																																
